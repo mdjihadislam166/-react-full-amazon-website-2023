@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    background-color: grey;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.header a{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1.5em;
+    margin-left: 36px;
+}
+.header a:hover{
+    color: orange;
+}

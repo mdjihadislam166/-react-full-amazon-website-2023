@@ -38,6 +38,7 @@ letter-spacing: 0.0015em;
     justify-content: center;
     position: absolute;
     bottom: 0;
+    cursor: pointer;
 }
 .btn-cart .btn-text{
 margin-right: 8px;
